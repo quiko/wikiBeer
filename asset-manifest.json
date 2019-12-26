@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/wikiBeer/static/css/main.d3aaa3ee.chunk.css",
+    "main.js": "/wikiBeer/static/js/main.2f167b53.chunk.js",
+    "main.js.map": "/wikiBeer/static/js/main.2f167b53.chunk.js.map",
+    "runtime-main.js": "/wikiBeer/static/js/runtime-main.7ad037a8.js",
+    "runtime-main.js.map": "/wikiBeer/static/js/runtime-main.7ad037a8.js.map",
+    "static/js/2.75d34b70.chunk.js": "/wikiBeer/static/js/2.75d34b70.chunk.js",
+    "static/js/2.75d34b70.chunk.js.map": "/wikiBeer/static/js/2.75d34b70.chunk.js.map",
+    "index.html": "/wikiBeer/index.html",
+    "precache-manifest.b2b0f05bc737480dad641bc49daf34c6.js": "/wikiBeer/precache-manifest.b2b0f05bc737480dad641bc49daf34c6.js",
+    "service-worker.js": "/wikiBeer/service-worker.js",
+    "static/css/main.d3aaa3ee.chunk.css.map": "/wikiBeer/static/css/main.d3aaa3ee.chunk.css.map",
+    "static/js/2.75d34b70.chunk.js.LICENSE": "/wikiBeer/static/js/2.75d34b70.chunk.js.LICENSE",
+    "static/media/beer.jpg": "/wikiBeer/static/media/beer.6518cad5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7ad037a8.js",
+    "static/js/2.75d34b70.chunk.js",
+    "static/css/main.d3aaa3ee.chunk.css",
+    "static/js/main.2f167b53.chunk.js"
+  ]
+}
