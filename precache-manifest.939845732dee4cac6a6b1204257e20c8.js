@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "42729668af6ec95ec394da2796071157",
+    "revision": "5697cb8e8e5ccd0615ef689e557f76d4",
     "url": "/wikiBeer/index.html"
   },
   {
