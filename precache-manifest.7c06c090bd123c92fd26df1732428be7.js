@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "940164c6e46ca2d0fa946ab6782672db",
+    "revision": "42729668af6ec95ec394da2796071157",
     "url": "/wikiBeer/index.html"
   },
   {
-    "revision": "a4a7f6e7c6c341261ede",
+    "revision": "577ff647bfe3147e1a12",
     "url": "/wikiBeer/static/css/main.d3aaa3ee.chunk.css"
   },
   {
-    "revision": "d100e4b2324d85ce73b5",
-    "url": "/wikiBeer/static/js/2.75d34b70.chunk.js"
+    "revision": "751993e09189dcb61664",
+    "url": "/wikiBeer/static/js/2.7ae20661.chunk.js"
   },
   {
     "revision": "37ef80829e57f4a0c2aa4bfe70fe2cf3",
-    "url": "/wikiBeer/static/js/2.75d34b70.chunk.js.LICENSE"
+    "url": "/wikiBeer/static/js/2.7ae20661.chunk.js.LICENSE"
   },
   {
-    "revision": "a4a7f6e7c6c341261ede",
-    "url": "/wikiBeer/static/js/main.2f167b53.chunk.js"
+    "revision": "577ff647bfe3147e1a12",
+    "url": "/wikiBeer/static/js/main.a115f775.chunk.js"
   },
   {
     "revision": "49ceab0bd7093da303fc",
