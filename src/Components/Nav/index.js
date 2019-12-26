@@ -44,7 +44,7 @@ export default function Nav() {
           </Typography>
           <nav className={classes.nav}>
             <Button component={Link} to="/" className={classes.link}>
-              Beers
+              Home
             </Button>
           </nav>
         </Toolbar>

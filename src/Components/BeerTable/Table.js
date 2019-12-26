@@ -10,6 +10,7 @@ import TablePagination from "@material-ui/core/TablePagination";
 import Paper from "@material-ui/core/Paper";
 import DescriptionPanel from "./ExpansionPanel";
 
+
 const StyledTableCell = withStyles(theme => ({
   root: {
     backgroundColor: "rgba(250, 190, 88, 0.3)"

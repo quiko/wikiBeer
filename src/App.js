@@ -12,7 +12,6 @@ function App() {
       <Router>
         <Nav />
         <Container
-          maxWidth="md"
           component="main"
           style={{ marginTop: "15%", marginBottom: "15%" }}
         >
