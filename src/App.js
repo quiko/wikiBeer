@@ -1,25 +1,28 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import Container from "@material-ui/core/Container";
+import Nav from "./Components/Nav/index";
+import Footer from "./Components/Footer/index";
+import BeerTable from "./Components/BeerTable/index";
+import "./App.css";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
+    <React.Fragment>
+      <Router>
+        <Nav />
+        <Container
+          maxWidth="md"
+          component="main"
+          style={{ marginTop: "15%", marginBottom: "15%" }}
         >
-          Learn React
-        </a>
-      </header>
-    </div>
+          <Switch>
+            <Route exact path="/" component={BeerTable} />
+          </Switch>
+        </Container>
+      </Router>
+      <Footer />
+    </React.Fragment>
   );
 }
 
